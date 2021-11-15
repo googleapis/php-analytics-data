@@ -20,7 +20,7 @@ class OrderBy extends \Google\Protobuf\Internal\Message
      *
      * Generated from protobuf field <code>bool desc = 4;</code>
      */
-    private $desc = false;
+    private $desc = true;
     protected $one_order_by;
 
     /**
