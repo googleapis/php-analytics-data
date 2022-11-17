@@ -22,9 +22,9 @@
 
 namespace Google\Analytics\Data\Tests\Unit\V1beta;
 
-use Google\Analytics\Data\V1beta\BetaAnalyticsDataClient;
 use Google\Analytics\Data\V1beta\BatchRunPivotReportsResponse;
 use Google\Analytics\Data\V1beta\BatchRunReportsResponse;
+use Google\Analytics\Data\V1beta\BetaAnalyticsDataClient;
 use Google\Analytics\Data\V1beta\CheckCompatibilityResponse;
 use Google\Analytics\Data\V1beta\Metadata;
 use Google\Analytics\Data\V1beta\RunPivotReportResponse;
